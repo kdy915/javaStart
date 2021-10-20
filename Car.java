@@ -14,6 +14,7 @@ public class Car {
 			this.setSpeed(i);
 			System.out.println(this.model +this.speed);
 		}
+		System.out.println('1');
 	}
 	
 }
